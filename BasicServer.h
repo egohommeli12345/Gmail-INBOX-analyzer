@@ -1,0 +1,12 @@
+//
+// Created by Samuli on 10/30/24.
+//
+
+#ifndef EMAIL_BATCH_DELETING_BASICSERVER_H
+#define EMAIL_BATCH_DELETING_BASICSERVER_H
+
+
+void ServerStart();
+
+
+#endif //EMAIL_BATCH_DELETING_BASICSERVER_H
